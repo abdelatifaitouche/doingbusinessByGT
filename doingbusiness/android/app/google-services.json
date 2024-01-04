@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186765322911",
+    "project_id": "doingbusinessgt",
+    "storage_bucket": "doingbusinessgt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186765322911:android:c6b8c000f09a2a8d4310aa",
+        "android_client_info": {
+          "package_name": "com.grantthornton.doingbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186765322911-sqriffdklcdpc98c5j5756ieugi4ntbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKe6GJ0BcQ0dTCeYR1D4-zmGgjQRLpnYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186765322911-sqriffdklcdpc98c5j5756ieugi4ntbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
