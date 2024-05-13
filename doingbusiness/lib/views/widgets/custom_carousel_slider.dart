@@ -1,6 +1,5 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:doingbusiness/models/article.dart';
 import 'package:doingbusiness/views/pages/article_details.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
